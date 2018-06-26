@@ -1,0 +1,25 @@
+{
+  "name": "kbomeisl-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbomeisl/palindrome.git"
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "kbomeisl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbomeisl/palindrome/issues"
+  },
+  "homepage": "https://github.com/kbomeisl/palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
+}
